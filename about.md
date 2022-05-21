@@ -1,14 +1,12 @@
 ---
 layout: page
-title: About
+title: About This Blog
 permalink: /about/
 ---
 
-Some information about you!
+Just trying to get some ideas out there. I mostly talk about philosophy and politics. I try to publish an english and french version of each article.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+J'essaie juste d'emettre quelques idées. Je parle surtout de philosophie et de la politique. J'essaie de toujours publier une version anglaise et française de chaque article.
 
 ### Contact me
 
